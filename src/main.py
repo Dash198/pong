@@ -1,0 +1,3 @@
+import menus
+
+menus.start()
